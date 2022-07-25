@@ -30,6 +30,10 @@ I am a Software Developer from South Korea 🇰🇷. I love reading, fixing bugs
 Feel free to contact me if you have any questions/suggestions!
  
 <br/>
+### Leetcode Profile Stats
+[![Argen's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=argenzxy&theme=dark)](https://leetcode.com/argenzxy/)
+
+<br/>
 
 ### 💫 Experience
 - **Digiformer SaaSLab** - Software Developer *(Jan 2021 ~)*
@@ -76,5 +80,3 @@ Feel free to contact me if you have any questions/suggestions!
 </div>
 
 
-### Leetcode Profile Stats
-[![Argen's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=argenzxy&theme=dark)](https://leetcode.com/argenzxy/)
