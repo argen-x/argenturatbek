@@ -4,8 +4,6 @@
   
 
 <br/>  
-
-## Hi There 👋  
   
 
 <a href="https://github.com/argenturatbek" target="_blank">
