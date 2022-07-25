@@ -15,4 +15,7 @@
 
 
 ### Leetcode Profile Stats
+<a href="https://github.com/KnlnKS/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=argenzxy" width="400"/>
+</a>
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=argenzxy&theme=dark)](https://leetcode.com/argenzxy/)
