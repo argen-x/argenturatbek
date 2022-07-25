@@ -27,9 +27,7 @@ Feel free to contact me if you have any questions/suggestions!
 - **Global Consulting Partners** - Student Project Consultant *(2018-2020)*  
 
 ### 🎓 Education
-- **Ulsan National Institute of Science and Technology** - UNIST  *(２０１７－２０２１ ~)*
-- ** Ｍａｊｏｒ：　Ｆｉｎａｎｃｅ
-－　＊＊　Ｍｉｎｏｒ：　Ｉｎｄｕｓｔｒｉａｌ　Ｅｎｇｉｎｅｅｒｉｎｇ
+- **Ulsan National Institute of Science and Technology** - UNIST  *(2017 ~ 2021)*
  
 ### 🐻　Leetcode Profile Stats
 [![Argen's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=argenzxy&theme=dark)](https://leetcode.com/argenzxy/)
