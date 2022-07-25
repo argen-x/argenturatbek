@@ -1,4 +1,66 @@
-### Hi, there!
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=jiyeoon&&style=flat-square" align="right" />
+</div>  
+  
+
+<br/>  
+
+## Hi There 👋  
+  
+
+<a href="https://github.com/argenturatbek" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/argenturatbek" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/argenturatbek" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
+</a>
+  
+
+
+
+### Hello, I'm Argen Turatbek!
+
+Good day!
+
+I am a Software Developer from South Korea 🇰🇷. I love reading, fixing bugs (just kidding) and communicating! 
+
+Feel free to contact me if you have any questions/suggestions!
+ 
+<br/>
+
+### 💫 Experience
+- **Digiformer SaaSLab** - Software Developer *(Jan 2021 ~)*
+- **Global Consulting Partners** - Student Project Consultant *(2018-2020)*  
+  
+
+<br/>  
+
+
+### ✨ Summary
+
+- 🔭 I’m currently working on nothing xD.
+- 🌱 I'm currently learning Data Structures an Algorithms
+  
+
+<br/>  
+<br/>  
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=argenturatbek&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argenturatbek&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
