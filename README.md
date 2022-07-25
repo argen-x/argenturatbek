@@ -29,8 +29,8 @@ Feel free to contact me if you have any questions/suggestions!
 
 ### 🎓 Education
 - **Ulsan National Institute of Science and Technology** - UNIST  *(2017 ~ 2021)*
-- ***Major: Finance***
-- ***Minor: Industrial Engineering***
+  - Major: Finance
+  - Minor: Industrial Engineering
  
 ### 🐻　Leetcode Profile Stats
 [![Argen's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=argenzxy&theme=dark)](https://leetcode.com/argenzxy/)
