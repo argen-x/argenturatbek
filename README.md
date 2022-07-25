@@ -1,10 +1,6 @@
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=argenturatbek&&style=flat-square" align="right" />
-</div>  
-  
-
-<br/>  
-  
+</div>    
 
 <a href="https://github.com/argenturatbek" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -21,50 +17,17 @@
 
 ### Hello, I'm Argen Turatbek!
 
-Good day!
-
 I am a Software Developer from South Korea 🇰🇷. Very enthusiastic about learning new technologies and willing to work on different industry solutions. 
 
 Feel free to contact me if you have any questions/suggestions!
  
-<br/> 
-
 ### Leetcode Profile Stats
 [![Argen's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=argenzxy&theme=dark)](https://leetcode.com/argenzxy/)
-
-<br/>
 
 ### 💫 Experience
 - **Digiformer SaaSLab** - Software Developer *(Jan 2021 ~)*
 - **Global Consulting Partners** - Student Project Consultant *(2018-2020)*  
-  
-
-<br/>  
-
-
-### ✨ Summary
-
-- 🔭 I’m currently working on nothing xD.
-- 🌱 I'm currently learning Data Structures an Algorithms
-  
-
-<br/>  
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=argenturatbek&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argenturatbek&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
+ 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -78,4 +41,25 @@ Feel free to contact me if you have any questions/suggestions!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
+
+
+
+### ✨ Summary
+
+- 🔭 I’m currently working on nothing xD.
+- 🌱 I'm currently learning Data Structures an Algorithms
+  
+
+### Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=argenturatbek&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argenturatbek&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
 
