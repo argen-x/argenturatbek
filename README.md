@@ -20,13 +20,19 @@
 I am a Software Developer from South Korea, Seoul. Very enthusiastic about learning new technologies and willing to work on different industry solutions. 
 
 Feel free to contact me if you have any questions/suggestions!
- 
-### Leetcode Profile Stats
-[![Argen's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=argenzxy&theme=dark)](https://leetcode.com/argenzxy/)
+
 
 ### 💫 Experience
 - **Digiformer SaaSLab** - Software Developer *(Jan 2021 ~)*
 - **Global Consulting Partners** - Student Project Consultant *(2018-2020)*  
+
+### 🎓 Education
+- **Ulsan National Institute of Science and Technology** - UNIST  *(２０１７－２０２１ ~)*
+- ** Ｍａｊｏｒ：　Ｆｉｎａｎｃｅ
+－　＊＊　Ｍｉｎｏｒ：　Ｉｎｄｕｓｔｒｉａｌ　Ｅｎｇｉｎｅｅｒｉｎｇ
+ 
+### 🐻　Leetcode Profile Stats
+[![Argen's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=argenzxy&theme=dark)](https://leetcode.com/argenzxy/)
  
 ### :hammer_and_wrench: Languages and Tools :
 <div>
