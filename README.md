@@ -11,6 +11,7 @@
 <a href="https://instagram.com/argenturatbek" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
 </a>
+
   
 
 
@@ -53,8 +54,8 @@ Feel free to contact me if you have any questions/suggestions!
 
 ### ✨ Summary
 
-- 🔭 I’m currently working on nothing xD.
-- 🌱 I'm currently learning Data Structures an Algorithms
+- 🔭 I’m currently working on ......
+- 🌱 I'm currently learning Data Structures an Algorithms, Korean Language
   
 
 ### Github Stats  
