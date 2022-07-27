@@ -21,7 +21,7 @@
 I am a Software Developer from South Korea, Seoul. </br>
 Very enthusiastic about learning new technologies and willing to work on different industry solutions. 
 
-Feel free to contact me if you have any questions/suggestions!
+Feel free to contact me if you have any questions/suggestions! </br>
 argenzxy(at)gmail(.)com
 
 
