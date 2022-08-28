@@ -34,8 +34,6 @@ Feel free to contact me if you have any questions/suggestions! </br>
   - Major: Finance
   - Minor: Industrial Engineering
  
-### 🐻　Leetcode Profile Stats
-[![Argen's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=argenzxy&theme=dark)](https://leetcode.com/argenzxy/)
  
 ### :hammer_and_wrench: Languages and Tools :
 <div>
