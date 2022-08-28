@@ -48,18 +48,6 @@ Feel free to contact me if you have any questions/suggestions! </br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
-
-
-
-### ✨ Summary
-
-- 🔭 I’m currently working on ......
-- 🌱 I'm currently learning Data Structures an Algorithms, Korean Language
-  
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argenturatbek&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
 </td></tr></table>  
 
 <br/>  
