@@ -26,8 +26,6 @@ I am a Software Developer from South Korea, Seoul. </br>
 
 ### 🎓 Education
 - **Ulsan National Institute of Science and Technology** - UNIST  *(2017 ~ 2021)*
-  - Major: Finance
-  - Minor: Industrial Engineering
  
  
 ### :hammer_and_wrench: Languages and Tools :
