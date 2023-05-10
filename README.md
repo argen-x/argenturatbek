@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20&fontSize=70&fontColor=ffffff" align="center"/>
+</div>
+
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=argenturatbek&&style=flat-square" align="right" />
 </div>    
@@ -37,9 +41,7 @@ I am a Software Developer from South Korea, Seoul. </br>
 
 <br/>  
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20&fontSize=70&fontColor=ffffff" align="center"/>
-</div>
+
   
 <!-- <h2 align="center">Tech Stack</h2>
 <h3 align="center">🌱Studying</h3>
@@ -73,8 +75,8 @@ I am a Software Developer from South Korea, Seoul. </br>
 </div align="center"></br></br> -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argenzxy&langs_count=8&layout=compact&card_width=200" />&nbsp&nbsp
-  <img src="https://github-readme-stats.vercel.app/api?username=argenzxy&show_icons=true&theme=panda" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argenturatbek&langs_count=8&layout=compact&card_width=200" />&nbsp&nbsp
+  <img src="https://github-readme-stats.vercel.app/api?username=argenturatbek&show_icons=true&theme=panda" />
 </div>
 
 <div align="center">
