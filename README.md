@@ -18,7 +18,9 @@
 
 ### Hello, I'm Argen Turatbek!
 
-I am a Software Developer from South Korea, Seoul. </br>
+ I am a Software Developer who is driven by creative problem solving, continuous learning, and teamwork. I enjoy building applications that improve workflows and create efficiencies for the end user.
+
+</br>
 
 ### 💫 Experience
 - **Digiformer SaaSLab** - Software Developer *(Jan 2021 ~)*
