@@ -22,7 +22,8 @@
 </br>
 
 ### 💫 Experience
-- **Digiformer SaaSLab** - Software Developer *(Jan 2021 ~)*
+- **CloIT** - Software Developer *(July 2023 ~ Prsent)*
+- **Digiformer SaaSLab** - Software Developer *(Jan 2021 ~ July 2023)*
 - **Global Consulting Partners** - Student Project Consultant *(2018-2020)*  
 
 ### 🎓 Education
